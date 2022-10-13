@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Data Warehousing/Database Normalisation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Data Warehousing/Database Normalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,10 @@
   },
   "active": "b2d90c3f8bf85f44",
   "lastOpenFiles": [
+    "Data Warehousing/Database Normalisation.md",
+    "_assets/f11.png",
+    "_assets/f12.png",
+    "_assets/f11._.md",
     "README.md"
   ]
 }
