@@ -1,0 +1,14 @@
+
+-   Databricks is a managed platform to run Apache Spark Jobs and is used for ETL, Streaming and ML workloads
+-   Solved the below problems in Hadoop:
+    -   Greater File Load Times solved by in-memory computing
+    -   Allows for Lazy Evaluation
+-   Data frame API supported in below languages:
+    -   Python
+    -   Scala
+    -   R
+    -   Java
+-   Compute jobs are run on managed clusters with two types of nodes:
+    -   **Driver**: Receives the job, splits it up and sends it to the worker nodes
+    -   **Worker**: Performs the transformations and actions
+-   Databricks creates the Spark Session internally

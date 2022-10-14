@@ -26,9 +26,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ac5851a788ea4954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databricks/Databricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Databricks/Databricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "266b976eaf932d65",
+  "active": "ac5851a788ea4954",
   "lastOpenFiles": [
     "Data Warehousing/Data Warehousing Concepts.md",
     "Data Warehousing/Slow Changing Dimensions.md",
