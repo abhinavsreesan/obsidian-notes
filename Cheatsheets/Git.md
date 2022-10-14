@@ -1,7 +1,5 @@
 # Git Cheat Sheet
 
-<!--Visit [my blog](https://techtldr.com/git-cheat-sheet/).-->
-
 ## Commands
 ### Getting Started
 
