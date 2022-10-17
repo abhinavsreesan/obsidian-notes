@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d8f9f049c2a62b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Federated Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e61668c8c987036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure SQL Change Data Capture(CDC).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databricks/Databricks.md",
+                "file": "Azure/Azure SQL Change Data Capture(CDC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +143,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ac5851a788ea4954",
+  "active": "0e61668c8c987036",
   "lastOpenFiles": [
+    "Azure/Federated Credentials.md",
     "Data Warehousing/Data Warehousing Concepts.md",
+    "Untitled.md",
+    "Databricks/Databricks.md",
     "Data Warehousing/Slow Changing Dimensions.md",
     "Data Warehousing/Dimensional Modelling.md",
     "Cheatsheets/Markdown.md",
     "Cheatsheets/Git.md",
     "Cheatsheets/HTTP_Status_Codes.md",
-    "ML/PyTorch.md",
-    "README.md",
-    "Data Warehousing/Database Normalisation.md",
-    "ML/Tensors.md"
+    "ML/PyTorch.md"
   ]
 }
