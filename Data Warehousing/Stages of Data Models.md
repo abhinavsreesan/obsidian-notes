@@ -65,3 +65,14 @@ The figure below is an example of a physical data model.
 
 ![Physical Data Model](https://www.1keydata.com/datawarehousing/physical-data-model.jpg)
 
+
+| Feature              | Conceptual | Logical | Physical |
+| -------------------- | ---------- | ------- | -------- |
+| Entity Names         | ✓          | ✓       |          |
+| Entity Relationships | ✓          | ✓       |          |
+| Attributes           |            | ✓       |          |
+| Primary Keys         |            | ✓       | ✓        |
+| Foreign Keys         |            | ✓       | ✓        |
+| Table Names          |            |         | ✓        |
+| Column Names         |            |         | ✓        |
+| Column Data Types    |            |         | ✓        |

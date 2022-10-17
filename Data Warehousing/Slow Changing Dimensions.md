@@ -1,4 +1,4 @@
-# Slow Changing Dimensions
+
 Ref:
 
 [Data Analyst's Primer to Slowly Changing Dimensions](https://towardsdatascience.com/data-analysts-primer-to-slowly-changing-dimensions-d087c8327e08)

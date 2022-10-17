@@ -59,8 +59,12 @@
             "id": "a8cf082c9e10568f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Warehousing/Stages of Data Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Warehousing/Stages of Data Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,13 +136,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "02b34ee4a68d185e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
@@ -145,14 +158,14 @@
   "active": "a8cf082c9e10568f",
   "lastOpenFiles": [
     "Knowledge Base.md",
-    "ML/ML.md",
-    "Cheatsheets/Cheatsheets.md",
+    "Cheatsheets/Markdown.md",
     "Data Warehousing/Stages of Data Models.md",
     "Data Warehousing/Data Warehousing Concepts.md",
     "Data Warehousing/Database Normalisation.md",
+    "Data Warehousing/Slow Changing Dimensions.md",
+    "ML/ML.md",
+    "Cheatsheets/Cheatsheets.md",
     "Data Warehousing/Dimensional Modelling.md",
-    "Databricks/Databricks.md",
-    "Azure/Federated Credentials.md",
-    "Azure/Azure.md"
+    "Databricks/Databricks.md"
   ]
 }
