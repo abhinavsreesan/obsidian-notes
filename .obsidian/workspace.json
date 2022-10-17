@@ -33,38 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databricks/Databricks.md",
+                "file": "Data Warehousing/Data Warehousing Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d8f9f049c2a62b9",
+            "id": "a6d288c92b025119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Federated Credentials.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "0e61668c8c987036",
+            "id": "c13ea029aad6ca31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure SQL Change Data Capture(CDC).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8cf082c9e10568f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure SQL Change Data Capture(CDC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +142,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0e61668c8c987036",
+  "active": "a8cf082c9e10568f",
   "lastOpenFiles": [
-    "Azure/Federated Credentials.md",
+    "Knowledge Base.md",
+    "ML/ML.md",
+    "Cheatsheets/Cheatsheets.md",
+    "Data Warehousing/Stages of Data Models.md",
     "Data Warehousing/Data Warehousing Concepts.md",
-    "Untitled.md",
-    "Databricks/Databricks.md",
-    "Data Warehousing/Slow Changing Dimensions.md",
+    "Data Warehousing/Database Normalisation.md",
     "Data Warehousing/Dimensional Modelling.md",
-    "Cheatsheets/Markdown.md",
-    "Cheatsheets/Git.md",
-    "Cheatsheets/HTTP_Status_Codes.md",
-    "ML/PyTorch.md"
+    "Databricks/Databricks.md",
+    "Azure/Federated Credentials.md",
+    "Azure/Azure.md"
   ]
 }
