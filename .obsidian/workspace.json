@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4eca000f7e009aee",
+        "id": "30b0f5684c921a64",
         "type": "tabs",
         "children": [
           {
-            "id": "7151fcd6ba22b837",
+            "id": "7d5365c5efbcf17c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Warehousing/Data Warehousing Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "266b976eaf932d65",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "ac5851a788ea4954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Warehousing/Data Warehousing Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6d288c92b025119",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c13ea029aad6ca31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8cf082c9e10568f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Warehousing/Stages of Data Models.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Warehousing/Stages of Data Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,27 +91,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a8cf082c9e10568f",
+  "active": "7d5365c5efbcf17c",
   "lastOpenFiles": [
-    "Knowledge Base.md",
-    "Cheatsheets/Markdown.md",
+    "Data Warehousing/Slow Changing Dimensions.md",
     "Data Warehousing/Stages of Data Models.md",
     "Data Warehousing/Data Warehousing Concepts.md",
-    "Data Warehousing/Database Normalisation.md",
-    "Data Warehousing/Slow Changing Dimensions.md",
-    "ML/ML.md",
-    "Cheatsheets/Cheatsheets.md",
-    "Data Warehousing/Dimensional Modelling.md",
-    "Databricks/Databricks.md"
+    "Kafka/Kafka Concepts.md",
+    "Kafka/Kafka.md",
+    "Python/PyTest.md",
+    "Kafka/ksqlDB.md",
+    "Knowledge Base.md",
+    "Cheatsheets/Markdown.md",
+    "Data Warehousing/Database Normalisation.md"
   ]
 }

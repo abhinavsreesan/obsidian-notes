@@ -10,16 +10,22 @@ The first type is referred to as Type 0. This refers to attributes that **never 
 ### **SCD Type 1**
 
 A Slowly Changing Dimension Type 1 refers to an instance where the **latest snapshot** of a record is maintained in the data warehouse, without any historical records.
+![[Pasted image 20221101213151.png]]
+![[Pasted image 20221101213205.png]]
 
 ### **SCD Type 2**
 
 With SCD Type 2, every time there is a change in the source system, **a new row will be added** to the data warehouse table. In the resulting table, there will be more records, but the prior history is retained and query able.
+![[Pasted image 20221101213220.png]]
+![[Pasted image 20221101213232.png]]
+![[Pasted image 20221101213300.png]]
 
 ### **SCD Type 3**
 
 In Slowly Changing Dimensions is Type 3 Instead of adding new rows to the table to reflect each record change, an **additional column is added**.
-
+![[Pasted image 20221101213322.png]]
 
 ### **SCD Type 4**
 
-Here, the concept of a **history table** is introduced. Historical data will be maintained as in SCD Type 2 but the distinction here is that the history will be maintained on a **separate table within the data warehouse. The current record will be included in the primary table.**
+Here, the concept of a **history/version table** is introduced. Historical data will be maintained as in SCD Type 2 but the distinction here is that the history will be maintained on a **separate table within the data warehouse. The current record will be included in the primary table.**
+![[Pasted image 20221101213336.png]]

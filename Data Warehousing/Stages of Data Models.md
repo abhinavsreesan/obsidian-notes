@@ -1,15 +1,5 @@
 There are three main stages of Data Models:
 
-###  **Conceptual Data Model**
-
-A conceptual data model identifies the highest-level relationships between the different entities. Features of conceptual data model include:
-
--   Includes the important entities and the relationships among them.
--   No attribute is specified.
--   No primary key is specified.
-
-The figure below is an example of a conceptual data model.
-
 ### Conceptual Data Model
 A conceptual data model identifies the highest-level relationships between the different entities. Features of conceptual data model include:
 

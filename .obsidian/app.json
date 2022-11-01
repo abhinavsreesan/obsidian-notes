@@ -3,5 +3,6 @@
   "livePreview": true,
   "promptDelete": true,
   "attachmentFolderPath": "_assets",
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
